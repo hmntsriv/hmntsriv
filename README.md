@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there, I am currently a BCA student. Studying DSA with Java  and Web app development Technologies like ReactJS, NextJS,.MongoDB, SQL and some flutter for app development.<br>Languages I know : C,Java, Java Script, Python,little bit of C#.<br>Languages that I will be learning : Rust, Kotlin, Swift.<br>I am studying to become a blockchain developer as I believe that would be the best suitable option for future.
+Hi, I’m a BCA student with a strong foundation in Data Structures and Algorithms (DSA) using Java and hands-on experience in web and application development.
+
+I work with modern technologies including ReactJS, NextJS, MongoDB, SQL, and have explored Flutter for cross-platform mobile app development.
+
+My programming experience spans C, Java, JavaScript, Python, and basic C#, and I am actively expanding my skill set by learning Rust, Kotlin, and Swift.
+
+I am currently focused on building a career as a Blockchain Developer, as I strongly believe blockchain technology will play a critical role in shaping the future of secure, decentralized systems. I’m passionate about learning, building real-world solutions, and staying aligned with emerging technologies.
 
 
 ## 🌐 Socials:
